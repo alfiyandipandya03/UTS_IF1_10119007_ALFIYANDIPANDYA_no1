@@ -1,5 +1,10 @@
 import java.time.Year;
 import java.util.Scanner;
+/*
+NAMA  : Alfiyandi Pandya Khalfani
+KELAS : IF 1
+NIM   : 10119007
+*/
 public class UTS_IF1_10119007_ALFIYANDIPANDYA_no1 {
     public static void main(String[] args) {
         Age a = new Age(Year.now().getValue());
