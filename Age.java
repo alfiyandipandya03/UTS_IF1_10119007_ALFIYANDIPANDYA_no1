@@ -1,5 +1,10 @@
 import java.text.SimpleDateFormat;
 import java.util.Date;
+/*
+NAMA  : Alfiyandi Pandya Khalfani
+KELAS : IF 1
+NIM   : 10119007
+*/
 public class Age {
     private int yearBirth, yearNow;
     private String red = "\u001B[31m";
